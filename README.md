@@ -1,6 +1,6 @@
 ## Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I’m Fırat Eren Yakut, a student at the <a href="https://iafl.meb.k12.tr/" target="_blank">Atatürk High School of Science</a>. I’m interested in Game Development and AI. I'm also a tech enthusiast. I'm currently an intern at <a href="http://www.karincaevent.com" target="_blank">KarıncaEvent</a>. You can contact me at:
+I’m Fırat Eren Yakut. I recently graduated from the <a href="https://iafl.meb.k12.tr/" target="_blank">Atatürk High School of Science</a>, and I'm currently studying Industrial Engineering at METU. I’m interested in Game Development and AI. I'm also a tech enthusiast. I'm currently an intern at <a href="http://www.karincaevent.com" target="_blank">KarıncaEvent</a>. You can contact me at:
 
 [![Linkedin Badge](https://img.shields.io/badge/-feyakut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feyakut/)](https://www.linkedin.com/in/feyakut/)
 [![Instagram Badge](https://img.shields.io/badge/-feyakut-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/feyakut/)](https://instagram.com/feyakut)
